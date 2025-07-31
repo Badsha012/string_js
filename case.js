@@ -12,7 +12,7 @@ console.log(school.toUpperCase())
 
 const subject='Chemistry';
 const book='chemistry';
-if(subject==book){
+if(subject .toLowerCase()==book.toLowerCase()){
     console.log(' i am reagingber exam fitaia dibo');
 
 }
@@ -20,4 +20,6 @@ else{
     console.log('udai hudai ultai vat ady oppaka kori');
 
 }
+
+
 
