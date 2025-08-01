@@ -1,6 +1,7 @@
 
-
-const drink ="water";
+//spaece jinnno 
+//shop kisu lower case
+const drink ="wa  ter";
 const liquid='water';
 
 
